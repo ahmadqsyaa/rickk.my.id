@@ -9,7 +9,7 @@ body{
   justify-content: center;
   text-align: center ;
   font-size :25px;
-  height :790px;
+  min-height: 100vh;
 }
 .about {
   background :rgb(199,207,243);
